@@ -1,0 +1,11 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Sensitive environment files (API keys, webhooks)
+.env
+*.env
+
+# Operating system files
+Thumbs.db
+.DS_Store
